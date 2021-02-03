@@ -9,8 +9,9 @@ The Mask R-CNN model with ResNet-101-FPN backbone has been trained and tested on
 detect road defects. After that, we evaluated the model using the AP matrix and compared their results. The model produced a satisfactory
 result as it can detect the defect's shape with a good confidence level and predict the damaged areas with different color annotations.
 
-	Collaborators name and ID:
+# Collaborators name and ID:
 Md Sehabub Zaman Pranta - 1611251042
+
 Tanvir Ahmed - 1410982042
 
 
