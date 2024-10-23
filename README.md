@@ -15,9 +15,12 @@ result as it can detect the defect's shape with a good confidence level and pred
 
 <img width="640" alt="1" src="https://github.com/user-attachments/assets/f81198d7-081e-47c5-b35a-277d58820c07">
 
+
 <img width="715" alt="2" src="https://github.com/user-attachments/assets/be5a3b4f-fa32-45cf-ae46-5ad9b2324247">
 
+
 <img width="497" alt="3" src="https://github.com/user-attachments/assets/412f5aa6-9d2a-4a65-9f97-048d7ffa2577">
+
 
 <img width="704" alt="4" src="https://github.com/user-attachments/assets/32f0e38f-b5fd-46ba-88ce-2cc3c7e904f3">
 
